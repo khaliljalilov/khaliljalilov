@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  <img src="https://img.shields.io/github/followers/PolyCode-12?style=social" />
+  <img src="https://img.shields.io/github/followers/khaliljalilov?style=social" />
 </p>
 
 ---
@@ -32,9 +32,9 @@
 
 ## 📊 GitHub Statistikalarım
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PolyCode-12&show_icons=true&theme=radical&rank_icon=github" alt="Khalil's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaliljalilov&show_icons=true&theme=radical&rank_icon=github" alt="Khalil's GitHub stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PolyCode-12&theme=radical" alt="Khalil's GitHub streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaliljalilov&theme=radical" alt="Khalil's GitHub streak" />
 </p>
